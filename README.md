@@ -1,1 +1,2 @@
-20223061 Kim Jaein
+Kim Jaein
+Kookmin Univ SW
